@@ -1,0 +1,6 @@
+node_modules
+carpetita/carpetita2
+text.js
+src/text.js
+*.txt
+images/**/*.jpg
